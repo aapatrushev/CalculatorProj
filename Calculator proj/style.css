@@ -1,0 +1,38 @@
+.backwall {
+    width: 350px;
+    border: 1px solid;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0 5px 20px;
+    background: #000000;
+    border-radius: 10px;
+}
+
+.button {
+    border: none;
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    text-align: center;
+    outline: none;
+    background-color: gray;
+}
+
+.panel {
+    width: 92.3%;
+    margin: 20px auto;
+    text-align: right;
+    background-color: #7df1fe;
+}
+
+.operation {
+    font: 1em sans-serif;
+}
+
+.biggerbutton {
+    font-size: 1.0pc;
+}
+
